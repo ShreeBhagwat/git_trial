@@ -30,6 +30,9 @@ class GitTrial extends StatelessWidget {
 
 
 // git merge {branchname} -> Merges the given branch to the current branch. 
-// Git this is changed file
+
+// always pull the code before starting your work. 
+// always push the code before leaving the work.
+
 
 
