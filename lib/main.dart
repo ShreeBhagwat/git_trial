@@ -29,4 +29,7 @@ class GitTrial extends StatelessWidget {
 // git pull -> pull and update the code. 
 
 
+// git merge {branchname} -> Merges the given branch to the current branch. 
+
+
 
