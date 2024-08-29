@@ -30,6 +30,6 @@ class GitTrial extends StatelessWidget {
 
 
 // git merge {branchname} -> Merges the given branch to the current branch. 
-
+// Git this is changed file
 
 
